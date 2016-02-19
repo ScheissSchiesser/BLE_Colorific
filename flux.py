@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Smart Bulb Flux Bulb Control With Bluez
 # Author: Tony DiCola
 # Author: (Flux Bulb modifications) Jeremy Plichta
